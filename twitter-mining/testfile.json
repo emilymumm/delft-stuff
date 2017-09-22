@@ -1,0 +1,582 @@
+{
+ "statuses": [
+  {
+   "created_at": "Thu Sep 21 16:05:12 +0000 2017",
+   "id": 910897710781300739,
+   "id_str": "910897710781300739",
+   "text": "RT @SenSanders: These flags mark all the abortion restrictions in the Republican repeal of Obamacare. This is a major rollback of women\u2019s r\u2026",
+   "truncated": false,
+   "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+     {
+      "screen_name": "SenSanders",
+      "name": "Bernie Sanders",
+      "id": 29442313,
+      "id_str": "29442313",
+      "indices": [
+       3,
+       14
+      ]
+     }
+    ],
+    "urls": []
+   },
+   "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+   },
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 24404110,
+    "id_str": "24404110",
+    "name": "Brian O'Reilly",
+    "screen_name": "BrianOReilly90",
+    "location": "Amityville, NY",
+    "description": "Idiot, reprobate, very unlikable.",
+    "url": null,
+    "entities": {
+     "description": {
+      "urls": []
+     }
+    },
+    "protected": false,
+    "followers_count": 35,
+    "friends_count": 156,
+    "listed_count": 1,
+    "created_at": "Sat Mar 14 18:02:48 +0000 2009",
+    "favourites_count": 3818,
+    "utc_offset": -10800,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1852,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "EDECE9",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/726618889287774208/8vj4dvjk_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/726618889287774208/8vj4dvjk_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/24404110/1486157955",
+    "profile_link_color": "088253",
+    "profile_sidebar_border_color": "D3D2CF",
+    "profile_sidebar_fill_color": "E3E2DE",
+    "profile_text_color": "634047",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+    "created_at": "Wed Sep 20 15:30:12 +0000 2017",
+    "id": 910526513090400256,
+    "id_str": "910526513090400256",
+    "text": "These flags mark all the abortion restrictions in the Republican repeal of Obamacare. This is a major rollback of w\u2026 https://t.co/l9tNKpBlEu",
+    "truncated": true,
+    "entities": {
+     "hashtags": [],
+     "symbols": [],
+     "user_mentions": [],
+     "urls": [
+      {
+       "url": "https://t.co/l9tNKpBlEu",
+       "expanded_url": "https://twitter.com/i/web/status/910526513090400256",
+       "display_url": "twitter.com/i/web/status/9\u2026",
+       "indices": [
+        117,
+        140
+       ]
+      }
+     ]
+    },
+    "metadata": {
+     "iso_language_code": "en",
+     "result_type": "recent"
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+     "id": 29442313,
+     "id_str": "29442313",
+     "name": "Bernie Sanders",
+     "screen_name": "SenSanders",
+     "location": "Vermont/DC",
+     "description": "Sen. Bernie Sanders is the longest serving independent in congressional history. Tweets ending in -B are from Bernie, and all others are from a staffer.",
+     "url": "http://t.co/8AS4FI1oge",
+     "entities": {
+      "url": {
+       "urls": [
+        {
+         "url": "http://t.co/8AS4FI1oge",
+         "expanded_url": "http://www.sanders.senate.gov/",
+         "display_url": "sanders.senate.gov",
+         "indices": [
+          0,
+          22
+         ]
+        }
+       ]
+      },
+      "description": {
+       "urls": []
+      }
+     },
+     "protected": false,
+     "followers_count": 6274936,
+     "friends_count": 2025,
+     "listed_count": 22965,
+     "created_at": "Tue Apr 07 13:02:35 +0000 2009",
+     "favourites_count": 28,
+     "utc_offset": -14400,
+     "time_zone": "Eastern Time (US & Canada)",
+     "geo_enabled": true,
+     "verified": true,
+     "statuses_count": 17345,
+     "lang": "en",
+     "contributors_enabled": false,
+     "is_translator": false,
+     "is_translation_enabled": false,
+     "profile_background_color": "000000",
+     "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/514189149444661248/pkGHMpZZ.jpeg",
+     "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/514189149444661248/pkGHMpZZ.jpeg",
+     "profile_background_tile": false,
+     "profile_image_url": "http://pbs.twimg.com/profile_images/794619281271033856/Fs0QQaH7_normal.jpg",
+     "profile_image_url_https": "https://pbs.twimg.com/profile_images/794619281271033856/Fs0QQaH7_normal.jpg",
+     "profile_banner_url": "https://pbs.twimg.com/profile_banners/29442313/1430854323",
+     "profile_link_color": "44506A",
+     "profile_sidebar_border_color": "FFFFFF",
+     "profile_sidebar_fill_color": "D6CCB6",
+     "profile_text_color": "304562",
+     "profile_use_background_image": true,
+     "has_extended_profile": true,
+     "default_profile": false,
+     "default_profile_image": false,
+     "following": false,
+     "follow_request_sent": false,
+     "notifications": false,
+     "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 8284,
+    "favorite_count": 14913,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+   },
+   "is_quote_status": false,
+   "retweet_count": 8284,
+   "favorite_count": 0,
+   "favorited": false,
+   "retweeted": false,
+   "lang": "en"
+  },
+  {
+   "created_at": "Thu Sep 21 16:05:12 +0000 2017",
+   "id": 910897709447598083,
+   "id_str": "910897709447598083",
+   "text": "RT @fiorivani: Some one make this same joke but with abortion clinics https://t.co/bXcuGdx4SK",
+   "truncated": false,
+   "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+     {
+      "screen_name": "fiorivani",
+      "name": "fiore III",
+      "id": 909099562014531585,
+      "id_str": "909099562014531585",
+      "indices": [
+       3,
+       13
+      ]
+     }
+    ],
+    "urls": [
+     {
+      "url": "https://t.co/bXcuGdx4SK",
+      "expanded_url": "https://twitter.com/fiorivani/status/910884349838491649",
+      "display_url": "twitter.com/fiorivani/stat\u2026",
+      "indices": [
+       70,
+       93
+      ]
+     }
+    ]
+   },
+   "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+   },
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 751246919817650176,
+    "id_str": "751246919817650176",
+    "name": "King Aspie",
+    "screen_name": "Aspergger",
+    "location": "",
+    "description": "I'm just a white guy.",
+    "url": null,
+    "entities": {
+     "description": {
+      "urls": []
+     }
+    },
+    "protected": false,
+    "followers_count": 397,
+    "friends_count": 1510,
+    "listed_count": 8,
+    "created_at": "Fri Jul 08 02:49:58 +0000 2016",
+    "favourites_count": 6343,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 12877,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/908877352440143872/xCrrRUiP_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/908877352440143872/xCrrRUiP_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/751246919817650176/1504822623",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "retweeted_status": {
+    "created_at": "Thu Sep 21 15:23:55 +0000 2017",
+    "id": 910887319531655168,
+    "id_str": "910887319531655168",
+    "text": "Some one make this same joke but with abortion clinics https://t.co/bXcuGdx4SK",
+    "truncated": false,
+    "entities": {
+     "hashtags": [],
+     "symbols": [],
+     "user_mentions": [],
+     "urls": [
+      {
+       "url": "https://t.co/bXcuGdx4SK",
+       "expanded_url": "https://twitter.com/fiorivani/status/910884349838491649",
+       "display_url": "twitter.com/fiorivani/stat\u2026",
+       "indices": [
+        55,
+        78
+       ]
+      }
+     ]
+    },
+    "metadata": {
+     "iso_language_code": "en",
+     "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+     "id": 909099562014531585,
+     "id_str": "909099562014531585",
+     "name": "fiore III",
+     "screen_name": "fiorivani",
+     "location": "East coast",
+     "description": "Italoamerican #medtwitter \ud83c\uddee\ud83c\uddf9",
+     "url": null,
+     "entities": {
+      "description": {
+       "urls": []
+      }
+     },
+     "protected": false,
+     "followers_count": 651,
+     "friends_count": 195,
+     "listed_count": 0,
+     "created_at": "Sat Sep 16 17:00:00 +0000 2017",
+     "favourites_count": 1104,
+     "utc_offset": null,
+     "time_zone": null,
+     "geo_enabled": false,
+     "verified": false,
+     "statuses_count": 691,
+     "lang": "en",
+     "contributors_enabled": false,
+     "is_translator": false,
+     "is_translation_enabled": false,
+     "profile_background_color": "F5F8FA",
+     "profile_background_image_url": null,
+     "profile_background_image_url_https": null,
+     "profile_background_tile": false,
+     "profile_image_url": "http://pbs.twimg.com/profile_images/909387526686814209/5BJVxsoK_normal.jpg",
+     "profile_image_url_https": "https://pbs.twimg.com/profile_images/909387526686814209/5BJVxsoK_normal.jpg",
+     "profile_banner_url": "https://pbs.twimg.com/profile_banners/909099562014531585/1505658840",
+     "profile_link_color": "1DA1F2",
+     "profile_sidebar_border_color": "C0DEED",
+     "profile_sidebar_fill_color": "DDEEF6",
+     "profile_text_color": "333333",
+     "profile_use_background_image": true,
+     "has_extended_profile": true,
+     "default_profile": true,
+     "default_profile_image": false,
+     "following": false,
+     "follow_request_sent": false,
+     "notifications": false,
+     "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 910884349838491649,
+    "quoted_status_id_str": "910884349838491649",
+    "quoted_status": {
+     "created_at": "Thu Sep 21 15:12:07 +0000 2017",
+     "id": 910884349838491649,
+     "id_str": "910884349838491649",
+     "text": "Hey @realDonaldTrump i found a map of North Korea with all the nuclear launch sites labeled. Good luck mr president! https://t.co/TSYJmZZNFh",
+     "truncated": false,
+     "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+       {
+        "screen_name": "realDonaldTrump",
+        "name": "Donald J. Trump",
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+         4,
+         20
+        ]
+       }
+      ],
+      "urls": [],
+      "media": [
+       {
+        "id": 910884345195442178,
+        "id_str": "910884345195442178",
+        "indices": [
+         117,
+         140
+        ],
+        "media_url": "http://pbs.twimg.com/media/DKQcfGLWsAI71w8.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DKQcfGLWsAI71w8.jpg",
+        "url": "https://t.co/TSYJmZZNFh",
+        "display_url": "pic.twitter.com/TSYJmZZNFh",
+        "expanded_url": "https://twitter.com/fiorivani/status/910884349838491649/photo/1",
+        "type": "photo",
+        "sizes": {
+         "medium": {
+          "w": 551,
+          "h": 550,
+          "resize": "fit"
+         },
+         "small": {
+          "w": 551,
+          "h": 550,
+          "resize": "fit"
+         },
+         "thumb": {
+          "w": 150,
+          "h": 150,
+          "resize": "crop"
+         },
+         "large": {
+          "w": 551,
+          "h": 550,
+          "resize": "fit"
+         }
+        }
+       }
+      ]
+     },
+     "extended_entities": {
+      "media": [
+       {
+        "id": 910884345195442178,
+        "id_str": "910884345195442178",
+        "indices": [
+         117,
+         140
+        ],
+        "media_url": "http://pbs.twimg.com/media/DKQcfGLWsAI71w8.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DKQcfGLWsAI71w8.jpg",
+        "url": "https://t.co/TSYJmZZNFh",
+        "display_url": "pic.twitter.com/TSYJmZZNFh",
+        "expanded_url": "https://twitter.com/fiorivani/status/910884349838491649/photo/1",
+        "type": "photo",
+        "sizes": {
+         "medium": {
+          "w": 551,
+          "h": 550,
+          "resize": "fit"
+         },
+         "small": {
+          "w": 551,
+          "h": 550,
+          "resize": "fit"
+         },
+         "thumb": {
+          "w": 150,
+          "h": 150,
+          "resize": "crop"
+         },
+         "large": {
+          "w": 551,
+          "h": 550,
+          "resize": "fit"
+         }
+        }
+       }
+      ]
+     },
+     "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+     },
+     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+     "in_reply_to_status_id": null,
+     "in_reply_to_status_id_str": null,
+     "in_reply_to_user_id": null,
+     "in_reply_to_user_id_str": null,
+     "in_reply_to_screen_name": null,
+     "user": {
+      "id": 909099562014531585,
+      "id_str": "909099562014531585",
+      "name": "fiore III",
+      "screen_name": "fiorivani",
+      "location": "East coast",
+      "description": "Italoamerican #medtwitter \ud83c\uddee\ud83c\uddf9",
+      "url": null,
+      "entities": {
+       "description": {
+        "urls": []
+       }
+      },
+      "protected": false,
+      "followers_count": 651,
+      "friends_count": 195,
+      "listed_count": 0,
+      "created_at": "Sat Sep 16 17:00:00 +0000 2017",
+      "favourites_count": 1104,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 691,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/909387526686814209/5BJVxsoK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/909387526686814209/5BJVxsoK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/909099562014531585/1505658840",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+     },
+     "geo": null,
+     "coordinates": null,
+     "place": null,
+     "contributors": null,
+     "is_quote_status": false,
+     "retweet_count": 14,
+     "favorite_count": 50,
+     "favorited": false,
+     "retweeted": false,
+     "possibly_sensitive": false,
+     "lang": "en"
+    },
+    "retweet_count": 3,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+   },
+   "is_quote_status": true,
+   "quoted_status_id": 910884349838491649,
+   "quoted_status_id_str": "910884349838491649",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "lang": "en"
+  }
+ ],
+ "search_metadata": {
+  "completed_in": 0.052,
+  "max_id": 910897710781300739,
+  "max_id_str": "910897710781300739",
+  "next_results": "?max_id=910897709447598082&q=abortion&count=2&include_entities=1",
+  "query": "abortion",
+  "refresh_url": "?since_id=910897710781300739&q=abortion&include_entities=1",
+  "count": 2,
+  "since_id": 0,
+  "since_id_str": "0"
+ }
+}
