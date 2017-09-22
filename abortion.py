@@ -31,7 +31,7 @@ class MyListener(StreamListener):
             if (n % 100 == 0):
                 ts = time.time()
                 stamp = datetime.datetime.fromtimestamp(ts).strftime('%m%d%H%M')
-                file_name = 'abortion_twitter' + stamp + '.json'
+                file_name = '/Users/Emily/data-files/twitter-stream/Abortion_tweets/abortion_twitter' + stamp + '.json'
                 with open(file_name, 'w') as f:
                     json.dump(self.tweet_list, f)
                 print("Output File", self.count)
